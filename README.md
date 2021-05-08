@@ -10,7 +10,11 @@
 - 💬 Ask me about **JavaScript,CSS and Vue**
 - 📫 How to reach me: [@lm101845](https://twitter.com/lm101845) on Twitter
 - ⚡ Fun fact: Big Fan of the ⚡ emoji
-- 
+
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=sergeyshaykhullin&theme=flat&no-frame=true&margin-w=30" />
+</div>
+
 ![](https://github-readme-stats.vercel.app/api?username=lm101845)
 
 <!--START_SECTION:waka-->
