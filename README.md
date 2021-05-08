@@ -10,3 +10,6 @@
 - 💬 Ask me about **JavaScript,CSS and Vue**
 - 📫 How to reach me: [@lm101845](https://twitter.com/lm101845) on Twitter
 - ⚡ Fun fact: Big Fan of the ⚡ emoji
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
