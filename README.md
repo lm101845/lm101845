@@ -14,10 +14,6 @@
 
 <br>
 
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=lm101845&theme=flat&no-frame=true&margin-w=30" />
-</div>
-
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
