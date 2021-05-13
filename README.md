@@ -32,7 +32,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 - 🤔 I’m looking for help with Vue,React,Node.js and DataBase.
   </td>
   <td>
-
+ ### 📊 Weekly development breakdown
  <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
 
