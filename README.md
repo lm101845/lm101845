@@ -4,17 +4,16 @@
   <a href="https://twitter.com/lm101845">Twitter</a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lm101845&count_private=true&show_icons=true&hide_title=true" />
+![](https://visitor-badge.glitch.me/badge?page_id=lm101845.readme)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lm101845&count_private=true&show_icons=true&hide_title=true&theme=buefy" />
 
 - 🔭 I’m currently working as a **Front-end engineer in Beijing**
 - 🌱 I’m currently learning **VUe3.0,React and Node.js**
 - 💬 Ask me about **JavaScript,CSS and Vue**
 - 📫 How to reach me: [@lm101845](https://twitter.com/lm101845) on Twitter
-<br>
-
+  <br>
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+
 <!--END_SECTION:waka-->
