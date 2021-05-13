@@ -33,11 +33,8 @@ I am currently studying at home. I am ready to do more projects and consolidate 
   </td>
   <td>
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+ <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 </td>
 </tr>
