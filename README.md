@@ -34,7 +34,10 @@ I am currently studying at home. I am ready to do more projects and consolidate 
   <td>
  ### 📊 Weekly development breakdown
  <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 </td>
 </tr>
 <tr>
