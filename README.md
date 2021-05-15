@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm 筛滤淘.</h2>
 <p align="center">
-  <a href="https://www.lm1024.top">技术博客</a> •
-  <a href="https://www.jianshu.com/u/6879af8ace24">生活记录</a>
+  <a href="https://www.lm1024.top">Technology Blog</a> •
+  <a href="https://www.jianshu.com/u/6879af8ace24">Life record</a>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=lm101845&color=brightgreen&label=PROFILE+VIEWS)
