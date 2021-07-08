@@ -21,7 +21,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 <tr>
 <td valign="top" width="60%">
 
-#### 🏋️‍♀️ <a href="https://github.com/liusy58" target="_blank">Talking about Personal Stuffs</a>
+#### 🏋️‍♀️ <a href="https://github.com/lm101845" target="_blank">Talking about Personal Stuffs</a>
 
 <!-- recent_releases starts -->
 
