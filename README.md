@@ -35,7 +35,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 30 June, 2021 - 07 July, 2021
+Week: 01 July, 2021 - 08 July, 2021
 
 Java   16 hrs 49 mins  █████████████████▓░░░░░░░   71.07 % 
 XML    2 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
