@@ -35,7 +35,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2021 - 24 September, 2021
+Week: 18 September, 2021 - 25 September, 2021
 
 JavaScript   1 hr 24 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.76 % 
 C            1 hr 17 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.22 % 
