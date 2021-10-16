@@ -35,7 +35,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 07 October, 2021 - 14 October, 2021
+Week: 08 October, 2021 - 15 October, 2021
 
 HTML         1 hr 10 mins    █████████████████████▓░░░   87.30 % 
 JavaScript   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
