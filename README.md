@@ -35,7 +35,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 09 November, 2021 - 16 November, 2021
+Week: 10 November, 2021 - 17 November, 2021
 
 Java         19 mins         ███████████████████████▒░   92.94 % 
 Git Config   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
