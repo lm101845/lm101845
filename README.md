@@ -35,9 +35,12 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 24 November, 2021
+Week: 18 November, 2021 - 25 November, 2021
 
-Java   35 mins         █████████████████████████   100.00 % 
+TypeScript   2 hrs 23 mins   ██████████████████▒░░░░░░   73.59 % 
+Java         35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.26 % 
+Vue.js       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+JavaScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 <!--END_SECTION:waka-->
 </td>
