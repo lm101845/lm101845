@@ -46,7 +46,7 @@ JavaScript   5 mins          ▓░░░░░░░░░░░░░░░░
 </tr>
 <tr>
 <td>
-<p align="center"><a href="https://github.com/lm101845"><img src="https://github-readme-stats.vercel.app/api?username=lm101845&hide_border=true&show_icons=true&theme=buefy" alt="Siyu Liu's github stats"></a>
+<p align="center"><a href="https://github.com/lm101845"><img src="https://github-readme-stats.vercel.app/api?username=lm101845&hide_border=true&show_icons=true&theme=buefy" alt="Li Ming's github stats"></a>
 </p>
 </td>
 <td>
