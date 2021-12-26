@@ -35,7 +35,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2021 - 24 December, 2021
+Week: 18 December, 2021 - 25 December, 2021
 
 Vue.js       25 hrs 21 mins  ███████████████████████░░   92.06 % 
 JavaScript   1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
