@@ -35,7 +35,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 30 December, 2021
+Week: 24 December, 2021 - 31 December, 2021
 
 JavaScript   1 hr 50 mins    ██████████▒░░░░░░░░░░░░░░   40.67 % 
 Other        1 hr 27 mins    ████████░░░░░░░░░░░░░░░░░   31.97 % 
