@@ -35,7 +35,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2021 - 05 January, 2022
+Week: 30 December, 2021 - 06 January, 2022
 
 TypeScript   1 hr 19 mins    ████████▒░░░░░░░░░░░░░░░░   33.99 % 
 JavaScript   1 hr 17 mins    ████████▒░░░░░░░░░░░░░░░░   33.39 % 
