@@ -35,7 +35,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2022 - 12 January, 2022
+Week: 06 January, 2022 - 13 January, 2022
 
 JavaScript   5 hrs 5 mins    ██████████▒░░░░░░░░░░░░░░   41.07 % 
 HTML         1 hr 51 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 % 
