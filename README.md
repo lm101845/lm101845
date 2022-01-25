@@ -35,7 +35,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 16 January, 2022 - 23 January, 2022
+Week: 17 January, 2022 - 24 January, 2022
 
 Java         3 hrs 13 mins   ██████████████▒░░░░░░░░░░   57.37 % 
 TypeScript   1 hr 3 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.81 % 
