@@ -35,7 +35,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 09 February, 2022
+Week: 03 February, 2022 - 10 February, 2022
 
 Java             6 hrs 13 mins   █████████████████░░░░░░░░   68.01 % 
 Vue.js           1 hr 36 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.60 % 
