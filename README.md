@@ -35,7 +35,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 25 February, 2022 - 04 March, 2022
+Week: 26 February, 2022 - 05 March, 2022
 
 TypeScript   4 hrs 25 mins   █████████▒░░░░░░░░░░░░░░░   37.35 % 
 Vue.js       3 hrs 14 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.33 % 
