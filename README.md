@@ -35,7 +35,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 21 April, 2022 - 28 April, 2022
+Week: 22 April, 2022 - 29 April, 2022
 
 Java         6 hrs 38 mins   ████████████████████░░░░░   80.03 % 
 C            44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
