@@ -35,7 +35,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 10 August, 2022 - 17 August, 2022
+Week: 11 August, 2022 - 18 August, 2022
 
 
 ```
