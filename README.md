@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm 筛滤淘.</h2>
 <p align="center">
-  <a href="https://lm2048.top/">Technology Blog</a> •
+  <a href="https://resume.lm2048.top/">Technology Blog</a> •
   <a href="https://www.jianshu.com/u/6879af8ace24">Life record</a>
 </p>
 
