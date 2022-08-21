@@ -37,7 +37,8 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ```text
 Week: 13 August, 2022 - 20 August, 2022
 
-
+Java         10 hrs 2 mins   █████████████████████████   99.61 % 
+CLASS        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 <!--END_SECTION:waka-->
 </td>
