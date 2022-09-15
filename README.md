@@ -35,7 +35,7 @@ I am currently studying at home. I am ready to do more projects and consolidate 
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2022 - 13 September, 2022
+Week: 07 September, 2022 - 14 September, 2022
 
 JavaScript   13 hrs 31 mins  ███████████░░░░░░░░░░░░░░   43.44 % 
 Java         4 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 % 
