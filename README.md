@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=lm101845&color=brightgreen&label=PROFILE+VIEWS)
 
-<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Li Ming,I was Born in 1994, bachelor degree, major in finance, graduated in 2017, and did finance and audit work for 4 years after graduation.
+<img height="25" src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Li Ming,I was Born in 1994, bachelor degree, major in finance, graduated in 2017, and did finance and audit work for 3 years after graduation.
 
 In August 2018, I had the idea of changing careers. During the period, I watched video courses such as C language, Java, computer network, etc.
 
