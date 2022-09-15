@@ -30,11 +30,11 @@ In August 2018, I had the idea of changing careers. During the period, I watched
 ```text
 Week: 07 September, 2022 - 14 September, 2022
 
-JavaScript   13 hrs 31 mins  ███████████░░░░░░░░░░░░░░   43.44 % 
-Java         4 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-HTML         3 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-CSS          2 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-TypeScript   1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+JavaScript   11 hrs 35 mins  ██████████▒░░░░░░░░░░░░░░   41.32 % 
+Java         4 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+HTML         4 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+CSS          1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+TypeScript   1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 <!--END_SECTION:waka-->
 </td>
