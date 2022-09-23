@@ -27,7 +27,7 @@ In August 2018, I had the idea of changing careers. During the period, I watched
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 14 September, 2022 - 21 September, 2022
+Week: 15 September, 2022 - 22 September, 2022
 
 JavaScript   13 hrs 1 min    ██████████▒░░░░░░░░░░░░░░   41.18 % 
 HTML         7 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.77 % 
