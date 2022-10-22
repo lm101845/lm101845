@@ -27,7 +27,11 @@ In August 2018, I had the idea of changing careers. During the period, I watched
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 14 October, 2022 - 21 October, 2022
+
+TypeScript   2 hrs 48 mins   ████████████████████████░   95.61 % 
+Text         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 <!--END_SECTION:waka-->
 </td>
