@@ -27,7 +27,7 @@ In August 2018, I had the idea of changing careers. During the period, I watched
 ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 16 October, 2022 - 23 October, 2022
+Week: 17 October, 2022 - 24 October, 2022
 
 TypeScript   4 hrs 8 mins    ████████████████████▓░░░░   82.79 % 
 Text         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
