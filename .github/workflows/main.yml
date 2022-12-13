@@ -16,6 +16,6 @@ jobs:
     steps:
       - uses: lm101845/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} 
           SHOW_TITLE: true
           HEAD_FLAG: true
