@@ -17,5 +17,6 @@ jobs:
       - uses: lm101845/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          gh_token: ${{ secrets.gh_token }}
           SHOW_TITLE: true
           HEAD_FLAG: true
