@@ -31,7 +31,7 @@ In August 2018, I had the idea of changing careers. During the period, I watched
 </tr>
 <tr>
 <td>
-  <p align="center;padding-top:10px"><a href="https://github.com/lm101845/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lm101845&hide_border=true&show_icons=true&theme=buefy" alt="Li Ming's github stats"></a>
+  <p align="center;padding-top:10px"><a href="https://github.com/lm101845/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lm101845" alt="Li Ming's github stats"></a>
 </p>
 </td>
 <td>
