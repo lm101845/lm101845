@@ -24,7 +24,7 @@ In August 2018, I had the idea of changing careers. During the period, I watched
 - 🤔 I’m looking for help with Vue,React,Node.js and DataBase.
   </td>
   <td>
-### 📊 Weekly development breakdown
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </td>
