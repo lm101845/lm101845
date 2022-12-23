@@ -11,7 +11,7 @@ In August 2018, I had the idea of changing careers. During the period, I watched
 
 <table align="center">
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="70%">
 
 #### 🏋️‍♀️ <a href="https://github.com/lm101845" target="_blank">Talking about Personal Stuffs</a>
 
