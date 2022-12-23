@@ -25,8 +25,8 @@ In August 2018, I had the idea of changing careers. During the period, I watched
   </td>
   
   <td>
-<!--START_SECTION:waka-box-->
-<!--END_SECTION:waka-box-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </td>
 </tr>
   
