@@ -25,6 +25,7 @@ In August 2018, I had the idea of changing careers. During the period, I watched
   </td>
   
   <td>
+ ### 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```text
