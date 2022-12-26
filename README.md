@@ -29,7 +29,7 @@ In August 2018, I had the idea of changing careers. During the period, I watched
 <!--START_SECTION:waka-->
 
 ```text
-Other            37 hrs 23 mins  █████████████████▓░░░░░░░   70.99 %
+Other            30 hrs 16 mins  ████████████████░░░░░░░░░   64.06 %
 ```
 
 <!--END_SECTION:waka-->
