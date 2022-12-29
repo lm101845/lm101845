@@ -29,7 +29,10 @@ In August 2018, I had the idea of changing careers. During the period, I watched
 <!--START_SECTION:waka-->
 
 ```text
-Other            9 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   31.01 %
+JavaScript       7 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   23.58 %
+Java             5 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
+XML              4 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+Other            4 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
 ```
 
 <!--END_SECTION:waka-->
