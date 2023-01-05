@@ -29,12 +29,12 @@ In August 2018, I had the idea of changing careers. During the period, I watched
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js           13 hrs 19 mins  █████████████░░░░░░░░░░░░   52.37 %
-JavaScript       4 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
-Java             3 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
-XML              2 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-JSON             49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Vue.js           14 hrs 25 mins  ██████████████▓░░░░░░░░░░   59.11 %
+JavaScript       4 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
+Java             3 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
+XML              1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+JSON             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
