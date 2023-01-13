@@ -43,8 +43,9 @@ TypeScript       5 mins          ░░░░░░░░░░░░░░░�
   
 <tr>
 <td>
-  <p align="center"><a href="https://github.com/lm101845"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lm101845&layout=compact" alt="Li Ming's github stats"></a>
-</p>
+<!--   <p align="center"><a href="https://github.com/lm101845"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lm101845&layout=compact" alt="Li Ming's github stats"></a>
+</p> -->
+  ![LiMing's GitHub stats](https://github-readme-stats.vercel.app/api?username=lm101845&show_icons=true&theme=radical)
 </td>
   
 <td>
